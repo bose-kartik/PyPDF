@@ -1,0 +1,8 @@
+# Ignore Python Virtual Enviroment files
+env/
+
+# Ignore VSCode settings files
+.vscode/
+
+# Ignore MAC .DS_Store file
+.DS_Store
